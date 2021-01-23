@@ -1,0 +1,29 @@
+.h1 {
+    
+}
+.nav {
+    background-color: #00008b;
+    height: 100px;
+    color: #fff
+    
+}
+.row {
+    height: 500px;
+}   
+.col-sm-3 {
+    background-color: #70f;
+    border: 5px solid #000;
+    border-radius: 25px;
+    color: #fff
+}
+.col-sm-7 {
+    background-color: #faa;
+    border: 5px solid #000;
+    border-radius: 25px;
+    color: #fff
+    }
+#foot {
+    background-color: #050;
+    height: 100px;
+    color: #fff
+}
